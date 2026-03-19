@@ -7,12 +7,12 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soksereyvathna.uk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vathxmaehg_39)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soksereyvathna-uk-8b980038a)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vathxmaehg39)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soksereyvathna.uk@gmail.com)
 
 ---
 
@@ -80,12 +80,20 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soksereyvathna-uk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soksereyvathna-uk&theme=dark&hide_border=true&count_private=true" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=soksereyvathna-uk&theme=dark&hide_border=false)
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=soksereyvathna-uk&theme=dark&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&theme=dark&hide_border=false&layout=compact)
+## 🌐 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&theme=dark&hide_border=true&layout=compact" />
+</p>
 
 ---
 
@@ -104,9 +112,9 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ---
 
-## 💰 Support Me
+<!--## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=soksereyvathna-uk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=soksereyvathna-uk&icon=0&color=0)](https://visitcount.itsvg.in) -->
