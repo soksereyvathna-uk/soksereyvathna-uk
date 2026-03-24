@@ -82,20 +82,7 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ---
 
-## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soksereyvathna-uk&theme=dark&hide_border=true&count_private=true" />
-</p>
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soksereyvathna-uk&theme=dark&hide_border=true" />
-</p>
-
-## 🌐 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&theme=dark&hide_border=true&layout=compact" />
-</p>
 
 ---
 
