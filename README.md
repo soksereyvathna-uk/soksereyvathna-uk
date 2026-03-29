@@ -84,13 +84,9 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 
 
----
 
-## 🌐 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p
+
 
 ---
 
