@@ -98,8 +98,7 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soksereyvathna-uk&theme=radical&no-frame=false&no-bg=true&margin-
+
 
 ---
 
