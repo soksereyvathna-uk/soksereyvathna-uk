@@ -96,14 +96,7 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
   <img src="https://github-readme-stats.vercel.app/api?username=soksereyvathna-uk&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" />
 </p>
 
----
 
-
-
----
-
-
----
 
 <!--## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a)
