@@ -102,8 +102,6 @@ I enjoy building secure, scalable software and exploring ethical hacking techniq
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soksereyvathna-uk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
