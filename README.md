@@ -1,7 +1,9 @@
-# 💫 About Me:
-Software Development & Cybersecurity Student
+# 💫 About Me: 
 
-I enjoy building secure, scalable software and exploring ethical hacking techniques to better understand and improve system security.
+## Software Development & Cybersecurity Student
+
+I’m an Information Technology student with a strong interest in cybersecurity, particularly cloud security and ethical hacking. Hands-on experience using Amazon Web Services (AWS) and Microsoft Azure, along with tools such as Kali Linux and Burp Suite in lab environments. Developing practical skills in IAM, cloud storage (S3/Azure Blob), virtual machines (EC2/Azure VM), network security, and vulnerability assessment. 
+Additionally, I also enjoy building secure, scalable software and exploring ethical hacking techniques to better understand and improve system security.
 
 ---
 
