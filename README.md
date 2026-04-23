@@ -7,6 +7,20 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="assets/github-snake.svg" />
+  </picture>
+</p>
+<a href="https://github.com/soksereyvathna-uk"><img width="30%" align="right" alt="Github Artwork" src="nghx.webp"/></a>
+
+
+---
+
+
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a)
