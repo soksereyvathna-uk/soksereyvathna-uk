@@ -7,20 +7,6 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="assets/github-snake.svg" />
-  </picture>
-</p>
-<a href="https://github.com/soksereyvathna-uk"><img width="30%" align="right" alt="Github Artwork" src="nghx.webp"/></a>
-
-
----
-
-
-
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a)
@@ -65,12 +51,12 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ---
-
+<!--## 
 ## 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
-
+-->
 ## ☁️ Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -102,6 +88,16 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
   <img src="https://streak-stats.demolab.com?user=soksereyvathna-uk&theme=dark&hide_border=true&v=1" />
 </p>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="assets/github-snake.svg" />
+  </picture>
+</p>
+
+<a href="https://github.com/soksereyvathna-uk"><img width="30%" align="right" alt="Github Artwork" src="nghx.webp"/></a>
 <!--## 🌐 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&layout=compact&theme=dark&hide_border=true&v=1" />
