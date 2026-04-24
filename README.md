@@ -97,7 +97,7 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
   </picture>
 </p>
 
-<a href="https://github.com/soksereyvathna-uk"><img width="30%" align="right" alt="Github Artwork" src="nghx.webp"/></a>
+<a href="https://github.com/soksereyvathna-uk"><img width="50%" align="right" alt="Github Artwork" src="nghx.webp"/></a>
 <!--## 🌐 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soksereyvathna-uk&layout=compact&theme=dark&hide_border=true&v=1" />
