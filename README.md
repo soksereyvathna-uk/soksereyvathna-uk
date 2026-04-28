@@ -55,7 +55,7 @@ Additionally, I also enjoy building secure, scalable software and exploring ethi
 ## 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
----
+
 -->
 ## ☁️ Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
